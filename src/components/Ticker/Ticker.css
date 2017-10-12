@@ -1,0 +1,11 @@
+.tickerList {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.tickerItem {
+    display: inline-block;
+    padding-right: 1rem;
+    font-size: 44px;
+}
